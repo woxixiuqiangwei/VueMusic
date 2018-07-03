@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # wby
 
 > A Vue.js project
@@ -28,7 +28,7 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
 =======
 # vue音乐APP
->>>>>>> 2e59c58db704b78d749826e19234177187ab4252
+
